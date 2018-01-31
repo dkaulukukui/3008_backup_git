@@ -1,4 +1,4 @@
-
+// This is the new branch
 package org.usfirst.frc.team3008.robot;
 
 import edu.wpi.first.wpilibj.IterativeRobot;
@@ -136,7 +136,7 @@ public class Robot extends IterativeRobot {
 		 * = new MyAutoCommand(); break; case "Default Auto": default:
 		 * autonomousCommand = new ExampleCommand(); break; }
 		 */
-		
+		//I made some changes
 
 		// schedule the autonomous command (example)
 	/*	if (autonomousCommand != null)

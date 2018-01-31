@@ -4,7 +4,7 @@ import org.usfirst.frc.team3008.robot.RobotMap;
 public class DIO_LED_test {
 	private static DigitalOutput dioR = new DigitalOutput(RobotMap.dioR);
 	private boolean state;
-	public void DIO_LED_test(){
+	public DIO_LED_test(){
 		off();
 	}
 	private void set(boolean state) {
